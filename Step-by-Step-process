@@ -1,15 +1,15 @@
 To embark on learning Microsoft Azure as a novice, the following steps are recommended:
 
-1. Grasp the fundamentals of cloud computing: Acquaint yourself with essential concepts such as infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) to comprehend the foundational principles underlying Azure.
+- Step 1: Grasp the fundamentals of cloud computing: Acquaint yourself with essential concepts such as infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) to comprehend the foundational principles underlying Azure.
 
-2. Complete an Azure Fundamentals course: Enroll in an introductory Azure Fundamentals course provided by Microsoft's official learning paths or reputable third-party platforms such as You tube videos or online tutorials. These courses encompass the Azure portal, core Azure services, pricing, and fundamental cloud concepts.
+- Step 2. Complete an Azure Fundamentals course: Enroll in an introductory Azure Fundamentals course provided by Microsoft's official learning paths or reputable third-party platforms such as You tube videos or online tutorials. These courses encompass the Azure portal, core Azure services, pricing, and fundamental cloud concepts.
 
-3. Acquire knowledge of core Azure services: Upon establishing a strong footing, delve into the diverse Azure services including virtual machines, storage, databases, networking, and Azure App Service. Gain an understanding of the applications and features of each service.
+- Step 3. Acquire knowledge of core Azure services: Upon establishing a strong footing, delve into the diverse Azure services including virtual machines, storage, databases, networking, and Azure App Service. Gain an understanding of the applications and features of each service.
 
-4. Engage in practical application through hands-on labs: Enhance your learning by undertaking hands-on labs and projects to acquire practical experience in deploying and managing Azure resources.
+- Step 4. Engage in practical application through hands-on labs: Enhance your learning by undertaking hands-on labs and projects to acquire practical experience in deploying and managing Azure resources.
 
-5. Explore specialized Azure services: Progress further by delving into specialized Azure services such as Azure Functions (serverless computing), Azure Cognitive Services (artificial intelligence), and Azure Kubernetes Service (container orchestration).
+- Step 5. Explore specialized Azure services: Progress further by delving into specialized Azure services such as Azure Functions (serverless computing), Azure Cognitive Services (artificial intelligence), and Azure Kubernetes Service (container orchestration).
 
-6. Attain Azure Certifications: Consider pursuing Azure certifications such as the Azure Fundamentals (AZ-900) or the Azure Administrator Associate (AZ-104) certification to validate your Azure knowledge and skills.
+- Step 6. Attain Azure Certifications: Consider pursuing Azure certifications such as the Azure Fundamentals (AZ-900) or the Azure Administrator Associate (AZ-104) certification to validate your Azure knowledge and skills.
 
-7. Stay abreast of developments: Given Azure's continuous evolution, it is imperative to remain informed about new features, updates, and industry best practices. Stay updated through Microsoft's Azure blog, participation in webinars, and engagement in Azure-related online communities.
+- Step 7. Stay abreast of developments: Given Azure's continuous evolution, it is imperative to remain informed about new features, updates, and industry best practices. Stay updated through Microsoft's Azure blog, participation in webinars, and engagement in Azure-related online communities.
