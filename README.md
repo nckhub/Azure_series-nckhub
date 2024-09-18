@@ -6,4 +6,4 @@
 ----------------------------------------------------------------------------
 - Day 1: Introduction & Account Creation
 - Day 2: Understanding Azure services
-- Day 3: Get Start Azure Step-by-Stepp Process)
+- Day 3: Get Start Azure Step-by-Step Process)
