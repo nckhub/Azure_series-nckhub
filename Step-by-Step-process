@@ -1,15 +1,23 @@
-To start learning Microsoft Azure as a beginner, it is recommended to follow these sequential guidelines:
+To begin learning Microsoft Azure as a beginner, it is recommended to follow these sequential guidelines:
 
-Step 1: Acquire a comprehensive understanding of cloud computing: Familiarize yourself with fundamental concepts such as infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) to comprehend the underlying principles of Azure.
+Step 1: Acquire a comprehensive understanding of cloud computing- Familiarize yourself with fundamental concepts such as infrastructure-as-a-service (IaaS), platform-as-a-service (PaaS), and software-as-a-service (SaaS) to comprehend the underlying principles of Azure.
 
-Step 2: Complete an Azure Fundamentals course: Enroll in an introductory Azure Fundamentals course offered through Microsoft's official learning paths or reputable third-party platforms such as YouTube videos or online tutorials. These courses encompass the Azure portal, core Azure services, pricing, and fundamental cloud concepts.
+Step 2: Create an Account & Complete an Azure Fundamentals course- Enroll in an introductory Azure Fundamentals course offered through Microsoft's official learning paths or reputable third-party platforms such as YouTube videos or online tutorials. These courses encompass the Azure portal, core Azure services, pricing, and fundamental cloud concepts.
 
-Step 3: Attain proficiency in core Azure services: Having established a solid foundation, delve into the diverse Azure services including virtual machines, storage, databases, networking, and Azure App Service. Gain an in-depth understanding of the applications and features of each service.
+Step 3: Attain proficiency in core Azure services- Having established a solid foundation, delve into the diverse Azure services including virtual machines, storage, databases, networking, and Azure App Service. Gain an in-depth understanding of the applications and features of each service.
 
-Step 4: Engage in practical application through hands-on labs: Enhance your learning experience by participating in hands-on labs and projects to gain practical expertise in deploying and managing Azure resources.
+Step 4: Engage in practical application through hands-on labs- Enhance your learning experience by participating in hands-on labs and projects to gain practical expertise in deploying and managing Azure resources.
 
-Step 5: Explore specialized Azure services: Progress further by delving into specialized Azure services such as Azure Functions (serverless computing), Azure Cognitive Services (artificial intelligence), and Azure Kubernetes Service (container orchestration).
+Step 5: Be part of Azure Communities- Get yourself enrolled into communities and forums. Join webinars, meetups and groups.
 
-Step 6: Obtain Azure Certifications: Consider pursuing Azure certifications such as the Azure Fundamentals (AZ-900) or the Azure Administrator Associate (AZ-104) certification to validate your Azure knowledge and skills.
+Step 6: Learn about Azure Security & Governance- Understand security features, and governance resources and follow best practices of securing cloud environments.
 
-Step 7: Stay abreast of developments: Given Azure's continuous evolution, it is imperative to remain informed about new features, updates, and industry best practices. Stay updated through Microsoft's Azure blog, participation in webinars, and engagement in Azure-related online communities.
+Step 7: Explore specialized Azure services- Progress further by delving into specialized Azure services such as Azure Functions (serverless computing), Azure Cognitive Services (artificial intelligence), and Azure Kubernetes Service (container orchestration).
+
+Step 8: Build your profile- Start creating Azure projects and present your projects in versioning software like Github/Bitbucket.
+
+Step 9: Stay abreast of developments- Given Azure's continuous evolution, it is imperative to remain informed about new features, updates, and industry best practices. Stay updated through Microsoft's Azure blog, participation in webinars, and engagement in Azure-related online communities.
+
+Step 10: Obtain Azure Certifications- Consider pursuing Azure certifications such as the Azure Fundamentals (AZ-900) or the Azure Administrator Associate (AZ-104) certification to validate your Azure knowledge and skills.
+
+Happy Learning!
